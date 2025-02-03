@@ -45,9 +45,6 @@ The application will be accessible at **http://localhost:3000**.
 │   │   ├── ResultScreen.tsx
 │   │   ├── StartScreen.tsx
 │   │   └── Timer.tsx
-│   ├── public/
-│   │   ├── Uw5CrX.json
-│   │   └── placeholder.svg
 │   ├── reducers/
 │   │   ├── quizReducer.ts
 │   ├── types/
@@ -113,8 +110,6 @@ Want to improve the quiz experience? Feel free to submit issues or pull requests
 3. **Commit your changes** (`git commit -m "Add feature"`).
 4. **Push to GitHub** (`git push origin feature-name`).
 5. **Create a Pull Request**.
-
----
 
 
 ## 📧 Contact
